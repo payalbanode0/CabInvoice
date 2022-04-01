@@ -1,0 +1,16 @@
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\bin\Debug\net5.0\CabInvoice.exe
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\bin\Debug\net5.0\CabInvoice.deps.json
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\bin\Debug\net5.0\CabInvoice.runtimeconfig.json
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\bin\Debug\net5.0\CabInvoice.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\bin\Debug\net5.0\CabInvoice.dll
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\bin\Debug\net5.0\CabInvoice.pdb
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\obj\Debug\net5.0\CabInvoice.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\obj\Debug\net5.0\CabInvoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\obj\Debug\net5.0\CabInvoice.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\obj\Debug\net5.0\CabInvoice.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\obj\Debug\net5.0\CabInvoice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\obj\Debug\net5.0\CabInvoice.dll
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\obj\Debug\net5.0\refint\CabInvoice.dll
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\obj\Debug\net5.0\CabInvoice.pdb
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\obj\Debug\net5.0\CabInvoice.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\cabinvoice\CabInvoice\CabInvoice\obj\Debug\net5.0\ref\CabInvoice.dll
